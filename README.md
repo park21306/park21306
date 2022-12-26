@@ -7,7 +7,8 @@
   </a>
 </h1>
 
-I'm Park (23 y.o) ! :sunglasses:
+I'm Park 
+
 
   Graduated From :<br>
  <div id="graduated" align="center">
