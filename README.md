@@ -32,14 +32,14 @@ Bachelor of Science – Computer and Information Science Major
 
 
  ### :fire: My Stats :
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=park21306&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park21306)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=park21306&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 <hr>
 Feel free to contact me :yum:
 <br><br>
 
 
-[<img src="https://img.shields.io/badge/Email-poonyanunt%40gmail.com-orange">](mailto:poonyanunt@gmail.com)
+[<img src="https://img.shields.io/badge/Email-work.poonyanunt%40gmail.com-orange">](mailto:work.poonyanunt@gmail.com)
 
