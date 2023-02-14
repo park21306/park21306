@@ -32,9 +32,9 @@ Bachelor of Science – Computer and Information Science Major
 
 
  ### :fire: My Stats :
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=park21306&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+ <p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=park21306&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 <hr>
 Feel free to contact me :yum:
